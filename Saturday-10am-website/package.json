@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-slick": "^0.29.0",
+    "react-slider": "^2.0.4",
+    "slick-carousel": "^1.8.1"
+  }
+}
