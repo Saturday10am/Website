@@ -23,7 +23,7 @@ function Navbar() {
                     <Link to='/'>
                         <li>Gallery</li>
                     </Link>
-                    <Link to='/'>
+                    <Link to='./components/About'>
                         <li>About us</li>
                     </Link>
                     <Link to='/'>
